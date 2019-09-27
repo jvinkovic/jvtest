@@ -1,0 +1,9 @@
+D:\Projekti\GIT\testingrepo\JosipTest\JVTestAngularAPI\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+D:\Projekti\GIT\testingrepo\JosipTest\JVTestAngularAPI\Data\bin\Debug\netcoreapp2.2\Data.dll
+D:\Projekti\GIT\testingrepo\JosipTest\JVTestAngularAPI\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+D:\Projekti\GIT\testingrepo\JosipTest\JVTestAngularAPI\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+D:\Projekti\GIT\testingrepo\JosipTest\JVTestAngularAPI\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+D:\Projekti\GIT\testingrepo\JosipTest\JVTestAngularAPI\Data\bin\Debug\netcoreapp2.2\Data.pdb
+D:\Projekti\GIT\testingrepo\JosipTest\JVTestAngularAPI\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+D:\Projekti\GIT\testingrepo\JosipTest\JVTestAngularAPI\Data\obj\Debug\netcoreapp2.2\Data.dll
+D:\Projekti\GIT\testingrepo\JosipTest\JVTestAngularAPI\Data\obj\Debug\netcoreapp2.2\Data.pdb

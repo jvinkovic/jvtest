@@ -1,0 +1,4 @@
+{
+    "prettier.singleQuote": true,
+    "html.format.wrapAttributes": "aligned-multiple"
+}

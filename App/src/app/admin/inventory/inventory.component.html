@@ -1,0 +1,15 @@
+
+<table border="bold">
+    <tr><th>name</th><th>price</th><th>rented</th></tr>
+    <tr *ngFor="let s of skis">
+        <td>{{ s.name}}</td>
+        <td>{{ s.hourlyRate }}</td>
+        <td><input type="checkbox" readonly [checked]="s.rented"></td>
+        <ng-container *ngIf="!s.rented">
+            <td><a routerLinkActive="active" routerLink="/rent/{{s.id}}">RENT</a></td>
+        </ng-container>
+        <ng-container *ngIf="s.rented">
+            <td><a routerLinkActive="active" routerLink="/return/{{s.id}}">RETURN</a></td>
+        </ng-container>
+    </tr>
+</table>
